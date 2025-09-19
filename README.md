@@ -10,20 +10,21 @@ I build web apps, explore ML, and contribute to open-source. I’m currently lea
 
 ### 🔗 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Chanu716" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/chanikya-716-karri" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-5C5CFF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-5C5CFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/chanu_716" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF5CA2?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-FF5CA2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:karrichanikya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-FF5C5C?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:karrichanikya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D48AF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
 
 
 ---
