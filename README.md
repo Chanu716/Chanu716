@@ -55,7 +55,9 @@ I build web apps, explore ML, and contribute to open-source. I’m currently lea
 
 ---
 
-![snake animation](./snake.svg)
+<p align="center">
+  <img src="./snake.svg" alt="Snake eating CHANU" width="700"/>
+</p>
 
 ---
 
