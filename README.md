@@ -61,11 +61,6 @@ I build web apps, explore ML, and contribute to open-source. I’m currently lea
 
 ---
 
-## ⚡ Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 <details open> 
   <summary><h2>📘 My Top Repositories</h2></summary>
