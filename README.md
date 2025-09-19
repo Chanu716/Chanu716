@@ -60,11 +60,8 @@ I build web apps, explore ML, and contribute to open-source. I’m currently lea
   <summary><h2>📘 My Top Repositories</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/Chanu716/SafeCity">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=SafeCity&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="SafeCity">
-    </a>
-    <a href="https://github.com/Chanu716/CropCred">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=CropCred&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="CropCred">
+    <a href="https://github.com/Chanu716/Safe-City">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=Safe-City&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="SafeCity">
     </a>
     <a href="https://github.com/Chanu716/BlindHire">
       <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=BlindHire&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="BlindHire">
