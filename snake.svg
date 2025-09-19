@@ -1,83 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="900" height="140">
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="none" />
+<!-- Background (transparent so it fits dark README) -->
+<rect width="100%" height="100%" fill="none" />
 
-  <!-- Letters (C H A N U) -->
-  <g id="letters" font-family="Segoe UI, Roboto, sans-serif" font-weight="700" font-size="36" fill="#ffffff" opacity="1">
-    <text id="tC" x="420" y="88">C</text>
-    <text id="tH" x="490" y="88">H</text>
-    <text id="tA" x="560" y="88">A</text>
-    <text id="tN" x="630" y="88">N</text>
-    <text id="tU" x="700" y="88">U</text>
-  </g>
 
-  <!-- Snake path -->
-  <path id="snakePath" fill="none" stroke="transparent" d="M20 70 C 120 20, 220 120, 320 70 C 420 20, 520 120, 620 70 C 720 20, 820 120, 880 70"/>
+<!-- Letters (C H A N U) placed along x-axis -->
+<g id="letters" font-family="Segoe UI, Roboto, sans-serif" font-weight="700" font-size="36" fill="#ffffff" opacity="1">
+<text id="tC" x="420" y="88">C</text>
+<text id="tH" x="490" y="88">H</text>
+<text id="tA" x="560" y="88">A</text>
+<text id="tN" x="630" y="88">N</text>
+<text id="tU" x="700" y="88">U</text>
+</g>
 
-  <!-- Snake head -->
-  <g id="snake">
-    <circle id="head" r="12" fill="#39ff14" stroke="#0f0f0f" stroke-width="2"/>
-    <path id="tongue" d="M0,14 L0,26" stroke="#ff2d55" stroke-width="2" stroke-linecap="round" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="0.6s" repeatCount="indefinite" begin="0s"/>
-    </path>
-  </g>
 
-  <!-- Animate snake head -->
-  <animateMotion xlink:href="#snake" dur="7s" repeatCount="indefinite">
-    <mpath xlink:href="#snakePath" />
-  </animateMotion>
+<!-- Snake path (a smooth curve) -->
+<path id="snakePath" fill="none" stroke="transparent" d="M20 70 C 120 20, 220 120, 320 70 C 420 20, 520 120, 620 70 C 720 20, 820 120, 880 70"/>
 
-  <!-- Snake body segments -->
-  <g id="body">
-    <circle r="9" fill="#2ee67d" opacity="0.95">
-      <animateMotion dur="7s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion>
-    </circle>
-    <circle r="8" fill="#2ad16b" opacity="0.9">
-      <animateMotion dur="7s" begin="0.1s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion>
-    </circle>
-    <circle r="7" fill="#22c65f" opacity="0.85">
-      <animateMotion dur="7s" begin="0.2s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion>
-    </circle>
-    <circle r="6" fill="#1fb651" opacity="0.8">
-      <animateMotion dur="7s" begin="0.3s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion>
-    </circle>
-    <circle r="5" fill="#1aa244" opacity="0.75">
-      <animateMotion dur="7s" begin="0.4s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion>
-    </circle>
-    <circle r="5" fill="#168f37" opacity="0.7">
-      <animateMotion dur="7s" begin="0.5s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion>
-    </circle>
-    <circle r="4" fill="#0f7b2a" opacity="0.65">
-      <animateMotion dur="7s" begin="0.6s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion>
-    </circle>
-  </g>
 
-  <!-- Fade out letters when snake reaches them -->
-  <set xlink:href="#tC" attributeName="opacity" to="0.12" begin="2.0s" dur="0.6s" fill="freeze" />
-  <set xlink:href="#tH" attributeName="opacity" to="0.12" begin="2.6s" dur="0.6s" fill="freeze" />
-  <set xlink:href="#tA" attributeName="opacity" to="0.12" begin="3.2s" dur="0.6s" fill="freeze" />
-  <set xlink:href="#tN" attributeName="opacity" to="0.12" begin="3.8s" dur="0.6s" fill="freeze" />
-  <set xlink:href="#tU" attributeName="opacity" to="0.12" begin="4.4s" dur="0.6s" fill="freeze" />
+<!-- Snake head (a circle) -->
+<g id="snake">
+<circle id="head" r="12" fill="#39ff14" stroke="#0f0f0f" stroke-width="2"/>
+<!-- tongue -->
+<path id="tongue" d="M0,14 L0,26" stroke="#ff2d55" stroke-width="2" stroke-linecap="round" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="0.6s" repeatCount="indefinite" begin="0s"/>
+</path>
+</g>
 
-  <!-- Sparkles effect -->
-  <g id="sparkles">
-    <circle cx="420" cy="60" r="2" fill="#fff" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="2.0s" repeatCount="1"/>
-    </circle>
-    <circle cx="490" cy="60" r="2" fill="#fff" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="2.6s" repeatCount="1"/>
-    </circle>
-    <circle cx="560" cy="60" r="2" fill="#fff" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="3.2s" repeatCount="1"/>
-    </circle>
-    <circle cx="630" cy="60" r="2" fill="#fff" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="3.8s" repeatCount="1"/>
-    </circle>
-    <circle cx="700" cy="60" r="2" fill="#fff" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="4.4s" repeatCount="1"/>
-    </circle>
-  </g>
 
-  <text x="20" y="130" font-size="10" fill="#9aa0a6">Snake animation — the snake travels and eats CHANU.</text>
+<!-- Animate the head along the path and trigger letters to fade when reached -->
+<animateMotion xlink:href="#snake" dur="7s" repeatCount="indefinite">
+<mpath xlink:href="#snakePath" />
+</animateMotion>
+
+
+<!-- Multiple tiny body circles that follow with staggered motion -->
+<g id="body">
+<!-- generate 8 body segments -->
+<circle r="9" fill="#2ee67d" opacity="0.95"><animateMotion dur="7s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion></circle>
+<circle r="8" fill="#2ad16b" opacity="0.9"><animateMotion dur="7s" begin="0.1s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion></circle>
+<circle r="7" fill="#22c65f" opacity="0.85"><animateMotion dur="7s" begin="0.2s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion></circle>
+<circle r="6" fill="#1fb651" opacity="0.8"><animateMotion dur="7s" begin="0.3s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion></circle>
+<circle r="5" fill="#1aa244" opacity="0.75"><animateMotion dur="7s" begin="0.4s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion></circle>
+<circle r="5" fill="#168f37" opacity="0.7"><animateMotion dur="7s" begin="0.5s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion></circle>
+<circle r="4" fill="#0f7b2a" opacity="0.65"><animateMotion dur="7s" begin="0.6s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion></circle>
+</g>
+
+
+<!-- Letter-eating effect: when the head passes certain path offsets, fade out letters -->
+<!-- We'll align timings roughly to the animateMotion progress (7s total). These <set> elements reduce opacity for each letter at given times. -->
+<set xlink:href="#tC" attributeName="opacity" to="0.12" begin="2.0s" dur="0.6s" fill="freeze" />
+<set xlink:href="#tH" attributeName="opacity" to="0.12" begin="2.6s" dur="0.6s" fill="freeze" />
+<set xlink:href="#tA" attributeName="opacity" to="0.12" begin="3.2s" dur="0.6s" fill="freeze" />
+<set xlink:href="#tN" attributeName="opacity" to="0.12" begin="3.8s" dur="0.6s" fill="freeze" />
+<set xlink:href="#tU" attributeName="opacity" to="0.12" begin="4.4s" dur="0.6s" fill="freeze" />
+
+
+<!-- small sparkle when letter eaten -->
+<g id="sparkles">
+<circle cx="420" cy="60" r="2" fill="#fff" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="2.0s" repeatCount="1"/></circle>
+<circle cx="490" cy="60" r="2" fill="#fff" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="2.6s" repeatCount="1"/></circle>
+<circle cx="560" cy="60" r="2" fill="#fff" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="3.2s" repeatCount="1"/></circle>
+<circle cx="630" cy="60" r="2" fill="#fff" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="3.8s" repeatCount="1"/></circle>
+<circle cx="700" cy="60" r="2" fill="#fff" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="4.4s" repeatCount="1"/></circle>
+</g>
+
+
+<!-- small caption under SVG for accessibility -->
+<text x="20" y="130" font-size="10" fill="#9aa0a6">Snake animation — the snake travels a path and "eats" the letters C H A N U.</text>
 </svg>
