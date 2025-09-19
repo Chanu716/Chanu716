@@ -83,11 +83,11 @@ If you have a project in mind, let’s connect and make it happen!
 <details open>
   <summary><h2>📘 My Top Repositories</h2></summary>
   <p align="left">
-    <a href="https://github.com/Chanu716/-FYCA-E-Commerce-Website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=-FYCA-E-Commerce-Website&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="-FYCA-E-Commerce-Website"></a>
-    <a href="https://github.com/Chanu716/01-02-2024-Lab-codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=01-02-2024-Lab-codes&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="01-02-2024-Lab-codes"></a>
-    <a href="https://github.com/Chanu716/08-02-2024-Lab-codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=08-02-2024-Lab-codes&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="08-02-2024-Lab-codes"></a>
-    <a href="https://github.com/Chanu716/15-02-2024-Lab-Codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=15-02-2024-Lab-Codes&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="15-02-2024-Lab-Codes"></a>
-    <a href="https://github.com/Chanu716/22-02-2024-Lab-Codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=22-02-2024-Lab-Codes&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="22-02-2024-Lab-Codes"></a>
+    <a href="https://github.com/Chanu716/-FYCA-E-Commerce-Website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=-FYCA-E-Commerce-Website&theme=monokai&hide_border=true&icon_color=#FD971F" alt="-FYCA-E-Commerce-Website"></a>
+    <a href="https://github.com/Chanu716/01-02-2024-Lab-codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=01-02-2024-Lab-codes&theme=monokai&hide_border=true&icon_color=#FD971F" alt="01-02-2024-Lab-codes"></a>
+    <a href="https://github.com/Chanu716/08-02-2024-Lab-codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=08-02-2024-Lab-codes&theme=monokai&hide_border=true&icon_color=#FD971F" alt="08-02-2024-Lab-codes"></a>
+    <a href="https://github.com/Chanu716/15-02-2024-Lab-Codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=15-02-2024-Lab-Codes&theme=monokai&hide_border=true&icon_color=#FD971F" alt="15-02-2024-Lab-Codes"></a>
+    <a href="https://github.com/Chanu716/22-02-2024-Lab-Codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=22-02-2024-Lab-Codes&theme=monokai&hide_border=true&icon_color=#FD971F" alt="22-02-2024-Lab-Codes"></a>
   </p>
   <a href="https://github.com/Chanu716?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
@@ -101,11 +101,10 @@ If you have a project in mind, let’s connect and make it happen!
 <details open>
   <summary><h2>🆕 Recent Repositories</h2></summary>
   <p align="left">
-    <a href="https://github.com/Chanu716/Chanu716"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=Chanu716&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="Chanu716"></a>
-    <a href="https://github.com/Chanu716/contribution-art"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=contribution-art&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="contribution-art"></a>
-    <a href="https://github.com/Chanu716/face-recognition-transfer-learning"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=face-recognition-transfer-learning&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="face-recognition-transfer-learning"></a>
-    <a href="https://github.com/Chanu716/house-price-prediction"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=house-price-prediction&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="house-price-prediction"></a>
-    <a href="https://github.com/Chanu716/Portfolio"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=Portfolio&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="Portfolio"></a>
+    <a href="https://github.com/Chanu716/Chanu716"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=Chanu716&theme=monokai&hide_border=true&icon_color=#FD971F" alt="Chanu716"></a>
+    <a href="https://github.com/Chanu716/face-recognition-transfer-learning"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=face-recognition-transfer-learning&theme=monokai&hide_border=true&icon_color=#FD971F" alt="face-recognition-transfer-learning"></a>
+    <a href="https://github.com/Chanu716/house-price-prediction"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=house-price-prediction&theme=monokai&hide_border=true&icon_color=A78BFA" alt="house-price-prediction"></a>
+    <a href="https://github.com/Chanu716/Portfolio"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=Portfolio&theme=monokai&hide_border=true&icon_color=#FD971F" alt="Portfolio"></a>
   </p>
   <a href="https://github.com/Chanu716?tab=repositories&sort=updated">
     <img alt="See All Recent Repos" title="See All Recent Repos" src="https://custom-icon-badges.demolab.com/badge/-Browse%20Recent%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
