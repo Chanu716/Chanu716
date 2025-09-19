@@ -55,8 +55,6 @@ I build web apps, explore ML, and contribute to open-source. I’m currently lea
 
 ---
 
-### 🐍 Snake — "Snake eating CHANU"
-
 ![snake animation](./snake.svg)
 
 ---
