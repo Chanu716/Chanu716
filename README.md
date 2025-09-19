@@ -55,10 +55,17 @@ I build web apps, explore ML, and contribute to open-source. I’m currently lea
 
 ---
 
-<p align="center">
-  <img src="./snake.svg" alt="Snake eating CHANU" width="700"/>
-</p>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Chanu716/Chanu716/output/dist/github-snake-dark-2023.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Chanu716/Chanu716/output/dist/github-snake-2023.svg"
+  />
+  <img alt="github-snake-2023" src="https://raw.githubusercontent.com/Chanu716/Chanu716/output/dist/github-snake-2023.svg" />
+</picture>
 ---
 
 
