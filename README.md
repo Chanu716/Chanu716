@@ -23,16 +23,15 @@ I build web apps, explore ML, and contribute to open-source. I’m currently lea
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,vercel,git,github,mysql&theme=dark" />
 
-
-
 ---
 
 ### 📊 GitHub — stats & activity
 
 <h3> 🔥 Streak Stats </h3>
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Chanu716&theme=monokai&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chanu716&theme=monokai&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <h3>💻 GitHub Profile Stats</h3>
 
@@ -53,12 +52,6 @@ I build web apps, explore ML, and contribute to open-source. I’m currently lea
 <br/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chanu716&theme=monokai)
-
----
-
-### 🚀 Projects (highlights)
-
-I keep my projects in my repositories — check my Portfolio repo for a curated list. I’m actively building ML experiments and web apps with ML integrations.
 
 ---
 
@@ -133,27 +126,6 @@ I keep my projects in my repositories — check my Portfolio repo for a curated 
 ## 🏅 Holopin Badges
 
 ![@chanu716's Holopin board](https://holopin.me/chanu716)
-
----
-
-
----
-
-## ✏️ Join My Word Cloud Board 🌐  
-
-<h3 align="center">
-Add your name or favorite word and watch it appear in the cloud in real-time! 🚀
-</h3>
-
-<p align="center">
-  👉 <a href="https://github.com/Chanu716/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7CCHANU"><b>Add your word</b></a>  
-  •  
-  🎲 <a href="https://github.com/Chanu716/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle"><b>Shuffle the cloud</b></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chanu716/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
-</p>
 
 ---
 
