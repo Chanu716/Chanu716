@@ -18,7 +18,7 @@ const readmePath = "README.md";
 <details open>
   <summary><h2>📘 My Top Repositories</h2></summary>
   <p align="left">
-${topRepos.map(r => `    <a href="${r.html_url}"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${r.name}&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="${r.name}"></a>`).join("\n")}
+${topRepos.map(r => `    <a href="${r.html_url}"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${r.name}&theme=monokai&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="${r.name}"></a>`).join("\n")}
   </p>
   <a href="https://github.com/${username}?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
@@ -35,7 +35,7 @@ ${topRepos.map(r => `    <a href="${r.html_url}"><img width="278" src="https://g
 <details open>
   <summary><h2>🆕 Recent Repositories</h2></summary>
   <p align="left">
-${recentRepos.map(r => `    <a href="${r.html_url}"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${r.name}&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="${r.name}"></a>`).join("\n")}
+${recentRepos.map(r => `    <a href="${r.html_url}"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${r.name}&theme=monokai&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="${r.name}"></a>`).join("\n")}
   </p>
   <a href="https://github.com/${username}?tab=repositories&sort=updated">
     <img alt="See All Recent Repos" title="See All Recent Repos" src="https://custom-icon-badges.demolab.com/badge/-Browse%20Recent%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
