@@ -1,4 +1,6 @@
-# Hi, I’m Chanu (Chanu716) 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double+Ink&size=40&pause=1000&color=D48AF7&background=0F0F2300&center=true&vCenter=true&width=435&lines=Hi!+I+am+Chanikya)
+
+---
 
 ### Bridging creativity & code — Aspiring AI/ML Engineer • Full‑Stack Developer • Problem‑solver with a creative edge
 
@@ -17,24 +19,40 @@ I build web apps, explore ML, and contribute to open-source. I’m currently lea
 
 ### 🛠 Skills
 
-<!-- Skill icons (from tandpfun/skill-icons) — add/remove icons as you like -->
+<!-- Skill icons (from tandpfun/skill-icons) -->
 
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/python/python-original.svg" alt="Python" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/c/c-original.svg" alt="C" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/vercel/vercel.svg" alt="Vercel" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/git/git-original.svg" alt="Git" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/github/github-original.svg" alt="GitHub" width="36" height="36"/> <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/mysql/mysql-original.svg" alt="MySQL" width="36" height="36"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,vercel,git,github,mysql&theme=dark" />
+
 
 
 ---
 
 ### 📊 GitHub — stats & activity
 
-<!-- Dark themed GitHub stats (replace `Chanu716` if you change username) -->
+<h3> 🔥 Streak Stats </h3>
 
-[![Chanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanu716&show_icons=true&theme=dark&hide_border=true)](https://github.com/Chanu716)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanu716&layout=compact&theme=dark&hide_border=true)](https://github.com/Chanu716)
+![GitHub Streak](https://streak-stats.demolab.com?user=Chanu716&theme=monokai&hide_border=true)
 
-<!-- Contribution/activity graph (this is the popular repo-card style) -->
+<h3>💻 GitHub Profile Stats</h3>
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chanu716&theme=github)](https://github.com/Chanu716)
+<!-- GitHub Stats -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Chanu's GitHub Stats" 
+         src="https://github-readme-stats.vercel.app/api?username=Chanu716&show_icons=true&include_all_commits=true&count_private=true&theme=monokai&hide_border=true" 
+         height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Chanu's Top Languages" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanu716&langs_count=8&layout=compact&theme=monokai&hide_border=true&hide=Jupyter%20Notebook,Roff" 
+         height="192px"/>
+  </a>
+</p>
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chanu716&theme=monokai)
 
 ---
 
@@ -46,14 +64,54 @@ I keep my projects in my repositories — check my Portfolio repo for a curated 
 
 ### 🐍 Snake — "Snake eating CHANU"
 
-Below is an animated SVG that shows a snake "eating" the letters **C H A N U**. Save the SVG as `snake.svg` in the same repository as your `README.md`, then include it in your README with:
-
-```md
-![Snake eating CHANU](./snake.svg)
-```
+![snake animation](./snake.svg)
 
 ---
 
+## ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<details open> 
+  <summary><h2>📘 My Top Repositories</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/Chanu716/SafeCity">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=SafeCity&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="SafeCity">
+    </a>
+    <a href="https://github.com/Chanu716/CropCred">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=CropCred&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="CropCred">
+    </a>
+    <a href="https://github.com/Chanu716/BlindHire">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=BlindHire&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="BlindHire">
+    </a>
+  </p>
+
+  <a href="https://github.com/Chanu716?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</details>
+
+---
+
+<details open> 
+  <summary><h2>🆕 Recent Repositories</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/Chanu716?tab=repositories&sort=updated">
+      <img alt="Recent Repositories" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=EmotiBand&theme=react&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" />
+    </a>
+    <!-- Add more recent repos here manually, or keep just one as placeholder -->
+  </p>
+
+  <a href="https://github.com/Chanu716?tab=repositories&sort=updated">
+    <img alt="See All Recent Repos" title="See All Recent Repos" src="https://custom-icon-badges.demolab.com/badge/-Browse%20Recent%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</details>
+
+---
 ### How I can help / Collaborate
 
 - Collaborating on ML + web projects
@@ -72,76 +130,35 @@ Below is an animated SVG that shows a snake "eating" the letters **C H A N U**. 
 
 ---
 
-*Made with ❤️ — feel free to tell me any edits you want.*
+## 🏅 Holopin Badges
+
+![@chanu716's Holopin board](https://holopin.me/chanu716)
+
+---
 
 
 ---
 
-<!-- ===== SNAKE SVG: save as snake.svg ===== -->
+## ✏️ Join My Word Cloud Board 🌐  
 
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 140" width="900" height="140">
-  <!-- Background (transparent so it fits dark README) -->
-  <rect width="100%" height="100%" fill="none" />
+<h3 align="center">
+Add your name or favorite word and watch it appear in the cloud in real-time! 🚀
+</h3>
 
-  <!-- Letters (C H A N U) placed along x-axis -->
-  <g id="letters" font-family="Segoe UI, Roboto, sans-serif" font-weight="700" font-size="36" fill="#ffffff" opacity="1">
-    <text id="tC" x="420" y="88">C</text>
-    <text id="tH" x="490" y="88">H</text>
-    <text id="tA" x="560" y="88">A</text>
-    <text id="tN" x="630" y="88">N</text>
-    <text id="tU" x="700" y="88">U</text>
-  </g>
+<p align="center">
+  👉 <a href="https://github.com/Chanu716/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7CCHANU"><b>Add your word</b></a>  
+  •  
+  🎲 <a href="https://github.com/Chanu716/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle"><b>Shuffle the cloud</b></a>
+</p>
 
-  <!-- Snake path (a smooth curve) -->
-  <path id="snakePath" fill="none" stroke="transparent" d="M20 70 C 120 20, 220 120, 320 70 C 420 20, 520 120, 620 70 C 720 20, 820 120, 880 70"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chanu716/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+</p>
 
-  <!-- Snake head (a circle) -->
-  <g id="snake">
-    <circle id="head" r="12" fill="#39ff14" stroke="#0f0f0f" stroke-width="2"/>
-    <!-- tongue -->
-    <path id="tongue" d="M0,14 L0,26" stroke="#ff2d55" stroke-width="2" stroke-linecap="round" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="0.6s" repeatCount="indefinite" begin="0s"/>
-    </path>
-  </g>
+---
 
-  <!-- Animate the head along the path and trigger letters to fade when reached -->
-  <animateMotion xlink:href="#snake" dur="7s" repeatCount="indefinite">
-    <mpath xlink:href="#snakePath" />
-  </animateMotion>
 
-  <!-- Multiple tiny body circles that follow with staggered motion -->
-  <g id="body">
-    <!-- generate 8 body segments -->
-    <circle r="9" fill="#2ee67d" opacity="0.95"><animateMotion dur="7s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion></circle>
-    <circle r="8" fill="#2ad16b" opacity="0.9"><animateMotion dur="7s" begin="0.1s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion></circle>
-    <circle r="7" fill="#22c65f" opacity="0.85"><animateMotion dur="7s" begin="0.2s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion></circle>
-    <circle r="6" fill="#1fb651" opacity="0.8"><animateMotion dur="7s" begin="0.3s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion></circle>
-    <circle r="5" fill="#1aa244" opacity="0.75"><animateMotion dur="7s" begin="0.4s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion></circle>
-    <circle r="5" fill="#168f37" opacity="0.7"><animateMotion dur="7s" begin="0.5s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion></circle>
-    <circle r="4" fill="#0f7b2a" opacity="0.65"><animateMotion dur="7s" begin="0.6s" repeatCount="indefinite"><mpath xlink:href="#snakePath" /></animateMotion></circle>
-  </g>
+*Made with ❤️ — feel free to tell me any edits you want.*
 
-  <!-- Letter-eating effect: when the head passes certain path offsets, fade out letters -->
-  <!-- We'll align timings roughly to the animateMotion progress (7s total). These <set> elements reduce opacity for each letter at given times. -->
-  <set xlink:href="#tC" attributeName="opacity" to="0.12" begin="2.0s" dur="0.6s" fill="freeze" />
-  <set xlink:href="#tH" attributeName="opacity" to="0.12" begin="2.6s" dur="0.6s" fill="freeze" />
-  <set xlink:href="#tA" attributeName="opacity" to="0.12" begin="3.2s" dur="0.6s" fill="freeze" />
-  <set xlink:href="#tN" attributeName="opacity" to="0.12" begin="3.8s" dur="0.6s" fill="freeze" />
-  <set xlink:href="#tU" attributeName="opacity" to="0.12" begin="4.4s" dur="0.6s" fill="freeze" />
 
-  <!-- small sparkle when letter eaten -->
-  <g id="sparkles">
-    <circle cx="420" cy="60" r="2" fill="#fff" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="2.0s" repeatCount="1"/></circle>
-    <circle cx="490" cy="60" r="2" fill="#fff" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="2.6s" repeatCount="1"/></circle>
-    <circle cx="560" cy="60" r="2" fill="#fff" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="3.2s" repeatCount="1"/></circle>
-    <circle cx="630" cy="60" r="2" fill="#fff" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="3.8s" repeatCount="1"/></circle>
-    <circle cx="700" cy="60" r="2" fill="#fff" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="4.4s" repeatCount="1"/></circle>
-  </g>
-
-  <!-- small caption under SVG for accessibility -->
-  <text x="20" y="130" font-size="10" fill="#9aa0a6">Snake animation — the snake travels a path and "eats" the letters C H A N U.</text>
-</svg>
-```
-
+---
