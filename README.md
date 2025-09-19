@@ -20,12 +20,23 @@ I build web apps, explore ML, and contribute to open-source. I’m currently lea
   <a href="https://www.instagram.com/chanu_716" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF5CA2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:karrichanikya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D48AF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
+---
 
+🤝 Let’s Build Something Together
+
+I’m always excited to collaborate on projects that combine ML, AI, and web development. Whether you’re starting a new idea, need help prototyping, or want to integrate machine learning into your web app, I’m ready to contribute and bring creative solutions to the table.
+
+If you have a project in mind, let’s connect and make it happen!
+
+📬 Reach out to me: karrichanikya@gmail.com
+
+💻 Full-stack development and web app building
+
+🤖 ML/AI project integration and prototyping
+
+🌱 Open-source contributions and mentorship
 
 ---
 
@@ -101,13 +112,6 @@ I build web apps, explore ML, and contribute to open-source. I’m currently lea
   </a>
 </details>
 
-
----
-### How I can help / Collaborate
-
-- Collaborating on ML + web projects
-- Open-source contributions and mentorship
-- Building full-stack apps and prototypes
 
 ---
 
