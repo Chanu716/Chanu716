@@ -1,10 +1,6 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double+Ink&size=40&pause=1000&color=D48AF7&background=0F0F2300&center=true&vCenter=true&width=435&lines=Hi!+I+am+Chanikya)
-
----
-
-### Bridging creativity & code — Aspiring AI/ML Engineer • Full‑Stack Developer • Problem‑solver with a creative edge
-
-I build web apps, explore ML, and contribute to open-source. I’m currently learning and building ML projects and enjoy combining machine learning with web applications. I’m open to collaborations, and project work — especially ML + web app integrations. I’m also a contributor to open-source and GSSoC 2025.
+<p align="center">
+  <img src="./Banner.png" alt="Animated GitHub Banner" width="100%">
+</p>
 
 ---
 
