@@ -13,13 +13,16 @@
   <a href="https://www.instagram.com/chanu_716" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF5CA2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="https://wa.me/9182789929" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
 
 ---
 
 🤝 Let’s Build Something Together
 
-I’m always excited to collaborate on projects that combine ML, AI, and web development. Whether you’re starting a new idea, need help prototyping, or want to integrate machine learning into your web app, I’m ready to contribute and bring creative solutions to the table.
+I’m always excited to collaborate on projects that combine ML, AI, and web development. Whether you’re starting a new idea, need help prototyping, or want to integrate machine learning into your projects, I’m happy to help.
 
 If you have a project in mind, let’s connect and make it happen!
 
@@ -37,7 +40,7 @@ If you have a project in mind, let’s connect and make it happen!
 
 <!-- Skill icons (from tandpfun/skill-icons) -->
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,vercel,git,github,mysql,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,vercel,netlify,react,docker,git,github,mysql,tailwind&theme=dark" />
 
 ---
 
@@ -71,260 +74,33 @@ If you have a project in mind, let’s connect and make it happen!
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <details open>
   <summary><h2>📘 My Top Repositories</h2></summary>
   <p align="left">
-    <a href="https://github.com/Chanu716/-FYCA-E-Commerce-Website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=-FYCA-E-Commerce-Website&theme=monokai&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="-FYCA-E-Commerce-Website"></a>
-    <a href="https://github.com/Chanu716/01-02-2024-Lab-codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=01-02-2024-Lab-codes&theme=monokai&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="01-02-2024-Lab-codes"></a>
-    <a href="https://github.com/Chanu716/08-02-2024-Lab-codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=08-02-2024-Lab-codes&theme=monokai&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="08-02-2024-Lab-codes"></a>
-    <a href="https://github.com/Chanu716/15-02-2024-Lab-Codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=15-02-2024-Lab-Codes&theme=monokai&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="15-02-2024-Lab-Codes"></a>
-    <a href="https://github.com/Chanu716/22-02-2024-Lab-Codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=22-02-2024-Lab-Codes&theme=monokai&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="22-02-2024-Lab-Codes"></a>
+    <a href="https://github.com/Chanu716/-FYCA-E-Commerce-Website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=-FYCA-E-Commerce-Website&theme=monokai"/></a>
+    <a href="https://github.com/Chanu716/01-02-2024-Lab-codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=01-02-2024-Lab-codes&theme=monokai&bg_color=1F222E"/></a>
+    <a href="https://github.com/Chanu716/08-02-2024-Lab-codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=08-02-2024-Lab-codes&theme=monokai&bg_color=1F222E"/></a>
+    <a href="https://github.com/Chanu716/15-02-2024-Lab-Codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=15-02-2024-Lab-Codes&theme=monokai&bg_color=1F222E"/></a>
+    <a href="https://github.com/Chanu716/22-02-2024-Lab-Codes"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=22-02-2024-Lab-Codes&theme=monokai&bg_color=1F222E"/></a>
   </p>
   <a href="https://github.com/Chanu716?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </details>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <details open>
   <summary><h2>🆕 Recent Repositories</h2></summary>
   <p align="left">
-    <a href="https://github.com/Chanu716/Chanu716"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=Chanu716&theme=monokai&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="Chanu716"></a>
-    <a href="https://github.com/Chanu716/Portfolio-Internship-Project"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=Portfolio-Internship-Project&theme=monokai&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="Portfolio-Internship-Project"></a>
-    <a href="https://github.com/Chanu716/InsightX"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=InsightX&theme=monokai&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="InsightX"></a>
-    <a href="https://github.com/Chanu716/Health.env"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=Health.env&theme=monokai&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="Health.env"></a>
-    <a href="https://github.com/Chanu716/notakto-website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=notakto-website&theme=monokai&bg_color=1F222E&title_color=8B5CF6&hide_border=true&icon_color=A78BFA" alt="notakto-website"></a>
+    <a href="https://github.com/Chanu716/Chanu716"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=Chanu716&theme=monokai&bg_color=1F222E&title_color=white"/></a>
+    <a href="https://github.com/Chanu716/Portfolio-Internship-Project"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=Portfolio-Internship-Project&theme=monokai&bg_color=1F222E&title_color=white"/></a>
+    <a href="https://github.com/Chanu716/InsightX"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=InsightX&theme=monokai&bg_color=1F222E&title_color=white"/></a>
+    <a href="https://github.com/Chanu716/Health.env"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=Health.env&theme=monokai&bg_color=1F222E&title_color=white"/></a>
+    <a href="https://github.com/Chanu716/notakto-website"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Chanu716&repo=notakto-website&theme=monokai&bg_color=1F222E&title_color=white"/></a>
   </p>
   <a href="https://github.com/Chanu716?tab=repositories&sort=updated">
     <img alt="See All Recent Repos" title="See All Recent Repos" src="https://custom-icon-badges.demolab.com/badge/-Browse%20Recent%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
@@ -344,8 +120,4 @@ If you have a project in mind, let’s connect and make it happen!
 
 ---
 
-
 *Made with ❤️ — feel free to tell me any edits you want.*
-
-
----
