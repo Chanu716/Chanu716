@@ -7,9 +7,6 @@
 ### 🔗 Connect
 
 <p align="center">
-  <a href="https://github.com/Chanu716" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/chanikya-716-karri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-5C5CFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
