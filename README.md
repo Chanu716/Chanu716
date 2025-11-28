@@ -40,7 +40,7 @@ If you have a project in mind, let’s connect and make it happen!
 
 <!-- Skill icons (from tandpfun/skill-icons) -->
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,vercel,netlify,react,docker,git,github,mysql,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,vercel,netlify,react,docker,git,github,mysql,tailwind,figma&theme=dark" />
 
 ---
 
