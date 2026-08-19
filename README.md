@@ -26,7 +26,7 @@ I’m always excited to collaborate on projects that combine ML, AI, and web dev
 
 If you have a project in mind, let’s connect and make it happen!
 
-📬 Reach out to me: karrichanikya@gmail.com
+📬 Reach out to me: chanikyakarri@gmail.com
 
 💻 Full-stack development and web app building
 
